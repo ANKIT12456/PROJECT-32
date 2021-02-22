@@ -54,7 +54,7 @@ function setup(){
 
 function draw(){
 	
-    background(0);
+    background("black");
 	
     ground1.display();
 
